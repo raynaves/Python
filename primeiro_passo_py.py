@@ -20,3 +20,4 @@ print (var1 + var2)
 
 if (var1 > var2 and var3 == True):
   print ( str(var1) + " é maior que " + str(var2))
+  print var1
